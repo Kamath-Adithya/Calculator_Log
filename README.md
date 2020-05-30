@@ -1,2 +1,2 @@
 # Calculator_Log
-This Web Application manages basic calculations and logs them as they happen and shares those calculations with everyone connected the website.
+ This Web Application manages basic calculations and logs them as they happen and shares those calculations with everyone connected the website.
