@@ -1,4 +1,4 @@
-const socket = io.connect("http://localhost:4000");
+const socket = io.connect("http://calculatorlog.herokuapp.com");
 socket.on("calc-log", (data) => console.log(data));
 var count =0;
 function getNumber(num){
